@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "An experimental local AI runtime. It relays one request through five small models with one job each, on a single 8 GB consumer GPU."
 requires-python = ">=3.10"
 # drop an unused branch
+# handle the edge case from the last release
