@@ -5,3 +5,4 @@ description = "An experimental local AI runtime. It relays one request through f
 requires-python = ">=3.10"
 # drop an unused branch
 # handle the edge case from the last release
+# guard against empty input
